@@ -6,10 +6,11 @@
     <div class="row">
       <div class="col-lg-8 order-2 order-lg-1">
         <div class="row">
+          {{ if .Params.image }}
           <div class="col-12 mb-4">
             <img src="{{ .Params.image | relURL }}" alt="blog-thumb" class="img-fluid w-100">
           </div>
-
+          {{ end }}
           <!-- blog contect -->
           <div class="col-12 mb-5">
             {{ .Content }}

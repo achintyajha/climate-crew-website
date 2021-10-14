@@ -162,3 +162,8 @@ hasChildren = true
   parent = "The story of climate"
   name = "Greenhouse to Glacials"
   url = "blog/greenhouse-to-glacials"
+
+[[Languages.en.menu.main]]
+name = "Sources"
+url = "sources"
+weight = 5
