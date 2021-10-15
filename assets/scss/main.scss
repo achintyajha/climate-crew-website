@@ -26,3 +26,11 @@ VERSION:	Versoin Number
 @import 'templates/homepage';
 
 @import 'templates/otherspage';
+
+p img {
+    max-width: 400px;
+
+    @include mobile {
+        max-width: 300px;
+    }
+}
