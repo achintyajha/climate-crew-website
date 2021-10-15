@@ -7,14 +7,14 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
-  path: exampleSite/content/english/blog
+  path: site-contents/content/english/blog
   label: Post (en)
   create: documents
   match: "**/*"
   templates:
   - post
 - type: directory
-  path: exampleSite/content/french/blog
+  path: site-contents/content/french/blog
   label: Post (fr)
   create: documents
   match: "**/*"
@@ -23,14 +23,14 @@ sections:
 - type: heading
   label: Author
 - type: directory
-  path: exampleSite/content/english/author
+  path: site-contents/content/english/author
   label: Author (en)
   create: documents
   match: "**/*"
   templates:
   - author
 - type: directory
-  path: exampleSite/content/french/author
+  path: site-contents/content/french/author
   label: Author (fr)
   create: documents
   match: "**/*"
@@ -39,14 +39,14 @@ sections:
 - type: heading
   label: Course
 - type: directory
-  path: exampleSite/content/english/course
+  path: site-contents/content/english/course
   label: Course (en)
   create: documents
   match: "**/*"
   templates:
   - course
 - type: directory
-  path: exampleSite/content/french/course
+  path: site-contents/content/french/course
   label: Course (fr)
   create: documents
   match: "**/*"
@@ -55,14 +55,14 @@ sections:
 - type: heading
   label: Notice
 - type: directory
-  path: exampleSite/content/english/notice
+  path: site-contents/content/english/notice
   label: Notice (en)
   create: all
   match: "**/*"
   templates:
   - notice
 - type: directory
-  path: exampleSite/content/french/notice
+  path: site-contents/content/french/notice
   label: Notice (fr)
   create: all
   match: "**/*"
@@ -71,14 +71,14 @@ sections:
 - type: heading
   label: Teacher
 - type: directory
-  path: exampleSite/content/english/teacher
+  path: site-contents/content/english/teacher
   label: Teacher (en)
   create: all
   match: "**/*"
   templates:
   - teacher
 - type: directory
-  path: exampleSite/content/french/teacher
+  path: site-contents/content/french/teacher
   label: Teacher (fr)
   create: all
   match: "**/*"
@@ -87,14 +87,14 @@ sections:
 - type: heading
   label: Event
 - type: directory
-  path: exampleSite/content/english/event
+  path: site-contents/content/english/event
   label: Event (en)
   create: all
   match: "**/*"
   templates:
   - event
 - type: directory
-  path: exampleSite/content/french/event
+  path: site-contents/content/french/event
   label: Event (fr)
   create: all
   match: "**/*"
@@ -103,14 +103,14 @@ sections:
 - type: heading
   label: Research
 - type: directory
-  path: exampleSite/content/english/research
+  path: site-contents/content/english/research
   label: Research (en)
   create: all
   match: "**/*"
   templates:
   - research
 - type: directory
-  path: exampleSite/content/french/research
+  path: site-contents/content/french/research
   label: Research (fr)
   create: all
   match: "**/*"
@@ -119,14 +119,14 @@ sections:
 - type: heading
   label: Scholarship
 - type: directory
-  path: exampleSite/content/english/scholarship
+  path: site-contents/content/english/scholarship
   label: Scholarship (en)
   create: all
   match: "**/*"
   templates:
   - scholarship
 - type: directory
-  path: exampleSite/content/french/scholarship
+  path: site-contents/content/french/scholarship
   label: Scholarship (fr)
   create: all
   match: "**/*"
@@ -135,48 +135,48 @@ sections:
 - type: heading
   label: Others Pages
 - type: directory
-  path: exampleSite/content/english/about
+  path: site-contents/content/english/about
   label: About (en)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/about
+  path: site-contents/content/french/about
   label: About (fr)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/contact
+  path: site-contents/content/english/contact
   label: Contact (en)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/contact
+  path: site-contents/content/french/contact
   label: Contact (fr)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/pages
+  path: site-contents/content/english/pages
   label: Created Pages (en)
   create: documents
   match: "**/*"
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/french/pages
+  path: site-contents/content/french/pages
   label: Created Pages (fr)
   create: all
   match: "**/*"
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/english
+  path: site-contents/content/english
   label: All Pages (en)
   create: all
   match: "**/*"
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/french
+  path: site-contents/content/french
   label: All Pages (fr)
   create: all
   match: "**/*"
@@ -185,29 +185,29 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data/en
+  path: site-contents/data/en
   label: Data (en)
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/data/fr
+  path: site-contents/data/fr
   label: Data (fr)
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/i18n
+  path: site-contents/i18n
   label: i18n
   create: documents
   match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
-  path: exampleSite
+  path: site-contents
   label: Configuration
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: exampleSite/static/images
+upload_dir: site-contents/static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
