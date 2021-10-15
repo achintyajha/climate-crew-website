@@ -12,7 +12,7 @@ slider:
       button:
         enable : true
         label : "Learn"
-        link : "blog"
+        link : "learn"
 
 ############################## about ##################################
 about:
