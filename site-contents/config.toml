@@ -11,6 +11,9 @@ disableLanguages = ['fr'] # desable language from here
 
 disableKinds = ["taxonomy", "term"]
 
+[markup.goldmark.renderer]
+unsafe= true
+
 
 ############################# Plugins ##############################
 
