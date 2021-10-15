@@ -34,3 +34,9 @@ p img {
         max-width: 300px;
     }
 }
+
+.sidebar-posts {
+    @include desktop {
+        display: none;
+    }
+}

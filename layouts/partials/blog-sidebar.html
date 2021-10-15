@@ -2,7 +2,7 @@
 <aside class="col-lg-4 order-1 order-lg-2">
 
   {{ "<!-- latest post -->" | safeHTML }}
-  <div class="bg-white">
+  <div class="bg-white sidebar-posts">
     <h4 class="mb-4">{{ i18n "latest_article" }}</h4>
     {{ "<!-- post-item -->" | safeHTML }}
     {{ range first 3 ( where site.Pages "Type" "post" )}}

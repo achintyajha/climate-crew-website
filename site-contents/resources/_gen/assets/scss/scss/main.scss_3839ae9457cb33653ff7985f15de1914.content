@@ -820,3 +820,6 @@ p img {
   @media (max-width: 575px) {
     p img {
       max-width: 300px; } }
+@media (max-width: 991px) {
+  .sidebar-posts {
+    display: none; } }
