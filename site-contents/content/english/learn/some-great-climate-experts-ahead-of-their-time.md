@@ -21,17 +21,21 @@ Thanks to the efforts of geologist Louis Agassiz , mathematician Milutin Milanko
 
 #### Louis Agassiz
 
-Born: 28 May 1807, Haut-Vully, Switzerland
+![louis agassiz](/images/blog/louis-agassiz.jpg)
 
-Died:14 December 1873, Cambridge, Massachusetts, United States
+**Born:** 28 May 1807, Haut-Vully, Switzerland
 
-Known for: Ice age, Polygenism
+**Died:** 14 December 1873, Cambridge, Massachusetts, United States
 
-Awards: Wollaston Medal, Copley Medal
-​
+**Known for:** Ice age, Polygenism
+
+**Awards:** Wollaston Medal, Copley Medal
+
 In 1836 Agassiz began a new line of studies: the movements and effects of the glaciers of Switzerland. Several writers had expressed the opinion that these rivers of ice once had been much more extensive and that the erratic boulders scattered over the region and up to the summit of the Jura Mountains were carried by moving glaciers. On the ice of the Aar Glacier he built a hut, the “Hôtel des Neuchâtelois,” from which he and his associates traced the structure and movements of the ice. In 1840 he published his Études sur les glaciers, in some respects his most important work. In it Agassiz showed that at a geologically recent period Switzerland had been covered by one vast ice sheet.
 
-#### Milutin Milanković
+#### Milutin Milankovic
+
+![milutin milankovic](/images/blog/milutin-milankovic.jpg)
 
 **Born:** 28th May 1879 in Dalj, Austro-Hungary (modern day Croatia)
 
@@ -45,13 +49,15 @@ In 1836 Agassiz began a new line of studies: the movements and effects of the gl
 
 In the eyes of Milutin Milankovitch, there’s been a noticeable trend in climate, temperature and seasons due to this cycle. And we can accredit these long-term climate changes to 3 variations in geometry between the Earth and sun:
 
-**ECCENTRICITY:** How the Earth orbits the sun.
+- **ECCENTRICITY:** How the Earth orbits the sun.
 
-**OBLIQUITY:** What angle Earth faces the sun.
+- **OBLIQUITY:** What angle Earth faces the sun.
 
-**PRECESSION:** How Earth’s axis of rotation changes.
+- **PRECESSION:** How Earth’s axis of rotation changes.
 
 #### Svante Arrhenius
+
+![svante arrhenius](/images/blog/svante-arrhenius.jpg)
 
 **Born:** 19 February 1859, Wik Castle, Sweden
 **Died:** 2 October 1927, Stockholm, Sweden

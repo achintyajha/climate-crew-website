@@ -814,3 +814,9 @@ link:focus,
 .media a:hover h5 {
   color: #ffbc3b;
   transition: 0.3s; }
+
+p img {
+  max-width: 400px; }
+  @media (max-width: 575px) {
+    p img {
+      max-width: 300px; } }
